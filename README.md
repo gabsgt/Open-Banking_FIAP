@@ -1,1 +1,1 @@
-This repository is where I stored my analysis to apply a Linear Regression model. As I couldn't find a correlation in the 'SELIC' and 'Inadimplencia' datasets, I've used a Logistic Regression model to predict if someone's income is >50K.
+This repository is where I stored my analysis to apply a Linear Regression model for my MBA task. As I couldn't find a correlation in the 'SELIC' and 'Inadimplencia' datasets, I've used a Logistic Regression model to predict if someone's income is >50K.
