@@ -1,1 +1,1 @@
-# Correlação entre a taxa de Juros SELIC e % de endividamento das familias brasileiras.
+This repository is where I stored my analysis to apply a Linear Regression model. As I couldn't find a correlation in the 'SELIC' and 'Inadimplencia' datasets, I've used a Logistic Regression model to predict if someone's income is >50K.
